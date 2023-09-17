@@ -1,2 +1,4 @@
 # i2s
-i2s(Image2Skin) is a NameMC skin-art tool made by bwbl, 242 and RayanSo. Its purpose is to make the process of a creating a skin art for your account easier and less time-consuming.
+**i2s** (_Image2Skin_) is a [NameMC](www.namemc.com) skin-art tool made by [bwbl](www.github.com/bwbl), [242](www.github.com/242Emily) and RayanSo.
+
+Its purpose is to make the process of a creating a skin art for your account **easier** and **less time-consuming**.
